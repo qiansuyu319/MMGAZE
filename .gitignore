@@ -1,0 +1,6 @@
+*.npy
+*.jpg
+*.mp4
+*.pt
+__pycache__/
+output/
